@@ -8,6 +8,8 @@ h1 {
   background-color:red;
 }
 p {
+  width:600px;
+  overflow:auto;
   background-color:purple;
 }
 .text {
